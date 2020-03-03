@@ -8,6 +8,11 @@
 
 並提供各連結網址伺服器狀態碼 http_status_code
 
+目前系統設定為每4小時自動爬蟲更新API連結 
+https://raw.githubusercontent.com/dannypc1628/w3hexschool-Extension-API/master/data.json
+
+## 格式範例
+
 ```
 {
   "blogList": [ // 文章列表
@@ -28,7 +33,8 @@
   "name": "長庚" // 若有勾選願意公開暱稱則會顯示暱稱
 }
 ```
+
+## 爬蟲原始碼
 爬蟲程式原始碼位於[GitHub:dannypc1628/Net-Core-Web-Crawler](https://github.com/dannypc1628/Net-Core-Web-Crawler)
 
-目前系統設定為每24小時自動爬蟲更新API連結 
-https://raw.githubusercontent.com/dannypc1628/w3hexschool-Extension-API/master/data.json
+
