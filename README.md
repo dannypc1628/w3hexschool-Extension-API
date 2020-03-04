@@ -8,7 +8,7 @@
 
 並提供各連結網址伺服器狀態碼 http_status_code
 
-目前系統設定為每4小時自動爬蟲更新API連結 
+目前系統設定為每 6小時自動爬蟲更新API連結 
 https://raw.githubusercontent.com/dannypc1628/w3hexschool-Extension-API/master/data.json
 
 ## 格式範例
