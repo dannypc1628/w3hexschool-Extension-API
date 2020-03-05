@@ -38,3 +38,5 @@ https://raw.githubusercontent.com/dannypc1628/w3hexschool-Extension-API/master/d
 爬蟲程式原始碼位於[GitHub:dannypc1628/Net-Core-Web-Crawler](https://github.com/dannypc1628/Net-Core-Web-Crawler)
 
 
+## API資料呈現DEMO
+https://dannypc1628.github.io/Angular-W3hexschool-Demo/
