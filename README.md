@@ -30,7 +30,8 @@ https://raw.githubusercontent.com/dannypc1628/w3hexschool-Extension-API/master/d
   ],
   "updateTime": "2020/3/1 下午 11:49:36", // 表單更新時間
   "blogUrl": "https://dannyliu.me/", // 部落格網址
-  "name": "長庚" // 若有勾選願意公開暱稱則會顯示暱稱
+  "name": "長庚",  // 若有勾選願意公開暱稱則會顯示暱稱
+  "keyID": 0 //作者編號
 }
 ```
 
